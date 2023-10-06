@@ -14,9 +14,9 @@ function getTotalPrice(productsArray)
             throw new Error('Erreur : ' + product + ' n\'est pas un objet.');
         }
 
-        if ('price' in product)
+        if ('price' in product && 'quantity' in product)
         {
-            totalPrice += product.price;
+            totalPrice += product.price * product.quantity;
         }
     }
 
