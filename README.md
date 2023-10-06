@@ -5,4 +5,4 @@ Eleve : Thomas L.
 <br />
 N. Etudiant : 20230012
 <br />
-Pour ouvrir le projet web : simplement ouvrir Index.html dans un navigateur (pour fonctionner, a besoin de : bootstrap.min.cs , bootstrap.min.css.map , Script.js)
+Pour ouvrir le projet web : simplement ouvrir Index.html dans un navigateur (pour fonctionner, a besoin de tous les fichiers presents dans le repo soit : bootstrap.min.cs , bootstrap.min.css.map , Script.js)
