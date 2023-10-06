@@ -10,5 +10,5 @@ function sentenceSearcher(sentences, word)
         }
     }
 
-    return ''
+    return '';
 }
