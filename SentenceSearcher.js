@@ -10,5 +10,5 @@ function sentenceSearcher(sentences, word)
         }
     }
 
-    return "Le mot n'a pas été trouvé dans les phrases passées en argument."
+    return ""
 }
